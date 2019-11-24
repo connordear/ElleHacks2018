@@ -355,7 +355,7 @@ label {
 }
 .w-input:focus,
 .w-select:focus {
-  border-color: #fcb01d;
+  border-color: #3898EC;
   outline: 0;
 }
 .w-input[disabled],
@@ -594,9 +594,6 @@ textarea.w-select {
 }
 .w-col-12 {
   width: 100%;
-}
-.w-col-13 {
-  width: 25%;
 }
 .w-hidden-main {
   display: none !important;
