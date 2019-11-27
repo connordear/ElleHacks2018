@@ -100,19 +100,19 @@
         top: 0;
         animation-timing-function: ease-in;
       }
-      17% {
-        top: 15px;
+      20% {
+        top: 10px;
         animation-timing-function: ease-out;
       }
-      34% {
+      30% {
         top: 0;
         animation-timing-function: ease-in;
       }
-      51% {
+      50% {
         top: 8px;
         animation-timing-function: ease-out;
       }
-      68% {
+      70% {
         top: 0px;
         animation-timing-function: ease-in;
          }
@@ -129,19 +129,19 @@
         top: 0;
         animation-timing-function: ease-in;
       }
-      17% {
-        top: 15px;
+      20% {
+        top: 10px;
         animation-timing-function: ease-out;
       }
-      34% {
+      30% {
         top: 0;
         animation-timing-function: ease-in;
       }
-      51% {
+      50% {
         top: 8px;
         animation-timing-function: ease-out;
       }
-      68% {
+      70% {
         top: 0px;
         animation-timing-function: ease-in;
          }
@@ -155,31 +155,31 @@
 }
 @keyframes bounce {
     0% {
-      top: 0;
-      animation-timing-function: ease-in;
-    }
-    17% {
-      top: 15px;
-      animation-timing-function: ease-out;
-    }
-    34% {
-      top: 0;
-      animation-timing-function: ease-in;
-    }
-    51% {
-      top: 8px;
-      animation-timing-function: ease-out;
-    }
-    68% {
-      top: 0px;
-      animation-timing-function: ease-in;
-       }
-    85% {
-      top: 3px;
-      animation-timing-function: ease-out;
-    }
-    100% {
-      top: 0;
+        top: 0;
+        animation-timing-function: ease-in;
+      }
+      20% {
+        top: 10px;
+        animation-timing-function: ease-out;
+      }
+      30% {
+        top: 0;
+        animation-timing-function: ease-in;
+      }
+      50% {
+        top: 8px;
+        animation-timing-function: ease-out;
+      }
+      70% {
+        top: 0px;
+        animation-timing-function: ease-in;
+         }
+      85% {
+        top: 3px;
+        animation-timing-function: ease-out;
+      }
+      100% {
+        top: 0;
     }
 }
 .buttonAnimation { 
