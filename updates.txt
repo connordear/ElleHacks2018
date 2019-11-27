@@ -1,0 +1,22 @@
+***************************
+        Update Log
+    ElleHacks Website
+***************************
+
+Updates As Of 2019-11-27:
+Updated by: Leo Tran
+Completely changed the colors of the website from blue to orange.
+Added in animation.css which includes:
+    - Animation effects for leaves and buttons.
+    - Animation effects "should" be supported on all browsers, there are three variations.
+    - UnselectableImage class which makes it so applied objects aren't highlighted.
+Added leaf animation within the hero-container section:
+    - Three different set of images creating a laying effect of leaves falling.
+Added button bounce animations for the social media and email buttons at footer section:
+    - Attached class onto each object, more information is within the animation.css file.
+Adjusted the image section for hackers, volunteers, and mentors:
+    - Changed ratios of images 
+    - Added new class within components.css for new ratios
+Changed colors for background words "Inspire" and "Change":
+    - Adjusted colors within elle-hacks.css and elle-hacks-10.css (unsure of the difference between each file as it was created by the previous developer).
+
