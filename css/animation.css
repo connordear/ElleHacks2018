@@ -7,8 +7,8 @@
 }
 /* Fixed sizes for images */
 .leafSize {
-    width: 50px;
-    height: 50px;
+    width: 65px;
+    height: 65px;
     -khtml-user-select: none;
     -o-user-select: none;
     -moz-user-select: none;
@@ -58,17 +58,20 @@
 .set div:nth-child(6) {
     left: 0%;
     animation: animate 12s linear infinite;
+    animation-delay: -4s;
 }
 .set div:nth-child(7) {
     left: 15%;
     animation: animate 14s linear infinite;
+    animation-delay: -3s
 }
 .set div:nth-child(8) {
     left: 60%;
     animation: animate 15s linear infinite;
+    animation-delay: -1;
 }
 /* Controls the motion of the images */
-/* @-webkit-keyframes animate {
+@-webkit-keyframes animate {
     0%{
         opacity: 0;
         top: -10%;
@@ -123,7 +126,7 @@
         opacity: 0;
         transform: translateX(-20px) rotate(225deg);
     }
-} */
+}
 @keyframes animate {
     0%{
         opacity: 0;
@@ -303,3 +306,42 @@
       from {transform: rotate(0deg);}
       to {transform: rotate(-360deg);}
   }
+
+.imageStart {
+    animation: 1s fadeIn;
+    animation-fill-mode: fowards;
+}
+
+@keyframes fadeIn {
+    0% {
+        opacity: 0;
+    }
+    100% {
+        visibility: visible;
+        opacity: 1;
+    }
+}
+
+@keyframes fadeOut {
+    0% {
+        opacity: 1;
+    }
+    100% {
+        opacity: 0;
+    }
+}
+
+.preloader {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    z-index: 9999;
+    background-image: url('https://gph.is/1XRTmuh');
+    background-repeat: no-repeat; 
+    background-color: #FFF;
+    background-position: center;
+ }
+
+ 
