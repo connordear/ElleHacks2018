@@ -12,12 +12,6 @@ Removed two leaf images:
     causing animation lag issues at the start.
     - We can either readd them later but downscale them or find new ones instead.
 
-Updates As of 2019-11-28
-Updated by: Leo tran
-Nothing major, I just learned about forking and such for github and so I took
-the work that I did and reuploaded it.
-
-
 Updates As Of 2019-11-27:
 Updated by: Leo Tran
 Completely changed the colors of the website from blue to orange.
