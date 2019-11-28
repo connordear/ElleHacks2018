@@ -2,6 +2,15 @@
         Update Log
     ElleHacks Website
 ***************************
+Updates As of 2019-11-28
+Updated by: Leo tran
+Nothing major, I just learned about forking and such for github and so I took
+the work that I did and reuploaded it.
+Removed two leaf images:
+    - This means six leaf objects were removed.
+    - They were removed because leafSize forcefully altered it's size
+    causing animation lag issues at the start.
+    - We can either readd them later but downscale them or find new ones instead.
 
 Updates As Of 2019-11-27:
 Updated by: Leo Tran
