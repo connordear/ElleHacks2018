@@ -343,17 +343,17 @@
 
 .role-hacker-image {
   position: relative;
-  width: 250px;
+  width: 320px;
 }
 
 .role-volunteer-image {
   position: relative;
-  width: 309px;
+  width: 440px;
 }
 
 .role-mentor-image {
   position: relative;
-  width: 180px;
+  width: 200px;
 }
 
 .columns-4 {
@@ -770,7 +770,7 @@
 .email-link {
   margin-top: 20px;
   font-family: 'Open Sans', sans-serif;
-  color: #7ec9cf;
+  color: #fcb01d;
   font-size: 16px;
   font-weight: 600;
   text-decoration: none;
