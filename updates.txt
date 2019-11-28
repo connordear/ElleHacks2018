@@ -3,6 +3,12 @@
     ElleHacks Website
 ***************************
 
+Updates As of 2019-11-28
+Updated by: Leo tran
+Nothing major, I just learned about forking and such for github and so I took
+the work that I did and reuploaded it.
+
+
 Updates As Of 2019-11-27:
 Updated by: Leo Tran
 Completely changed the colors of the website from blue to orange.
