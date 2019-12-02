@@ -1,3 +1,10 @@
+html, body {
+  width: 100%;
+  height: 100%;
+  margin: 0px;
+  padding: 0px;
+  overflow-x: hidden;
+}
 .section {
   display: -webkit-box;
   display: -webkit-flex;
@@ -343,17 +350,17 @@
 
 .role-hacker-image {
   position: relative;
-  width: 250px;
+  width: 320px;
 }
 
 .role-volunteer-image {
   position: relative;
-  width: 309px;
+  width: 440px;
 }
 
 .role-mentor-image {
   position: relative;
-  width: 180px;
+  width: 200px;
 }
 
 .columns-4 {
@@ -960,6 +967,21 @@
   }
   .image-24 {
     width: 290px;
+  }
+  .color-title-background {
+    position: static;
+    font-family: BenchNine;
+    color: rgba(126, 201, 207, .15);
+    font-size: 190px;
+    line-height: 265px;
+    font-weight: 700;
+    text-align: left;
+  }
+  
+  .color-title-background._1 {
+    margin-top: -136px;
+    margin-right: -214px;
+    font-family: BenchNine;
   }
 }
 
