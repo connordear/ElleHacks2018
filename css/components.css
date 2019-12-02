@@ -595,6 +595,9 @@ textarea.w-select {
 .w-col-12 {
   width: 100%;
 }
+.w-col-13 {
+  width: 25%
+}
 .w-hidden-main {
   display: none !important;
 }
