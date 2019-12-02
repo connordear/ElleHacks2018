@@ -2,8 +2,21 @@
         Update Log
     ElleHacks Website
 ***************************
+Updates As of 2019-12-01
+Updated by: Leo Tran
+Added restrictions to html and body so that there is no excess scrollbar in mobile view:
+    - Added styles that would change the html and body tags so that overflow within the
+    x-axis was hidden.
+Added old leaves back, resized to reduce lag:
+    - Changes were made in index.html regarding the set divs for the images.
+Changed the sizes for background words "Inspire" and "Change":
+    - Made it so that as the user minimized the webpage the font-size would
+    adjust according.
+    - Added the color-title-background to the @media section with max-width: 991px
+    within the CSS files elle-hacks-10.css and elle-hacks.css.
+
 Updates As of 2019-11-28
-Updated by: Leo tran
+Updated by: Leo Tran
 Nothing major, I just learned about forking and such for github and so I took
 the work that I did and reuploaded it.
 Removed two leaf images:
