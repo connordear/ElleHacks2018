@@ -2,6 +2,12 @@
         Update Log
     ElleHacks Website
 ***************************
+Updates As of 2020-01-11
+Updated by: Leo tran
+Added new logo images for sponsors.
+Changed sponors within the website.
+    - Removed/Updated sponsors.
+    
 Updates As of 2019-12-01
 Updated by: Leo Tran
 Added google analytics onto the webpage so that we can collect data to optimize the website.
